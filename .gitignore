@@ -1,0 +1,7 @@
+pod-build/
+*~
+*.touch
+*.tar.*
+gperftools-2.1/
+
+
